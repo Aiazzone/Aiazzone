@@ -4,8 +4,9 @@
 
 <br><br>
 
-**Chartered electrical engineer who writes desktop software.**<br>
-Python and Qt, from the timeline of a video editor to the millisecond a machine has to be told where to reach.
+**Chartered electrical engineer. I build machine-vision solutions for industry**<br>
+**and for anthropomorphic robots that handle products.**<br>
+Python and Qt, from the camera frame to the millisecond a robot has to be told where to reach.
 
 <br>
 
@@ -17,13 +18,16 @@ Python and Qt, from the timeline of a video editor to the millisecond a machine 
 
 <br>
 
-<img src="assets/divider.svg" alt="" width="100%">
-
-## `~/about`
+<img src="assets/h-about.svg" alt="About" width="100%">
 
 I started in power — substations, transmission lines, photovoltaic plants — and ended
 up writing Python, because the interesting problem stopped being the cable sizing and
 became **what the machine knows about the thing in front of it**.
+
+My field is **machine vision for industry**, and in particular vision for
+**anthropomorphic robots in product handling**: finding the product — on a pallet, in
+a bin, on a moving line — working out where and how it lies, and handing the robot
+a pose it can actually reach. Picking, depalletising, inspection.
 
 Most of what I build is a desktop application with something demanding on the other
 end: a camera at thirty frames a second, a GPU running inference, a PLC that has to
@@ -35,9 +39,7 @@ I still draw schematics. The two halves talk to each other more than people expe
 
 <br>
 
-<img src="assets/divider.svg" alt="" width="100%">
-
-## `~/projects`
+<img src="assets/h-projects.svg" alt="Projects" width="100%">
 
 ### [IVE — Individual Video Editor](https://github.com/Aiazzone/IVE-Individual-video-editor)
 
@@ -76,9 +78,7 @@ on MLT. Still early: it opens, edits, plays and exports, and it breaks between c
 
 <br>
 
-<img src="assets/divider.svg" alt="" width="100%">
-
-## `~/stack`
+<img src="assets/h-stack.svg" alt="Stack" width="100%">
 
 **Applications**
 
@@ -108,9 +108,7 @@ on MLT. Still early: it opens, edits, plays and exports, and it breaks between c
 
 <br>
 
-<img src="assets/divider.svg" alt="" width="100%">
-
-## `~/background`
+<img src="assets/h-background.svg" alt="Background" width="100%">
 
 | | |
 |---|---|
