@@ -1,22 +1,25 @@
 <div align="center">
 
-# simone zuliani
+<a href="https://aiazzone.github.io"><img src="assets/header.svg" alt="Simone Zuliani" width="100%"></a>
 
-**Chartered electrical engineer who writes desktop software.**
-Python and Qt, from the timeline of a video editor to the millisecond
-a machine has to be told where to reach.
+<br><br>
 
-[![Site](https://img.shields.io/badge/aiazzone.github.io-1a1b26?style=for-the-badge&labelColor=1a1b26)](https://aiazzone.github.io)
-[![Email](https://img.shields.io/badge/email-1a1b26?style=for-the-badge&labelColor=1a1b26)](mailto:simone.engineer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1a1b26?style=for-the-badge&labelColor=1a1b26)](https://www.linkedin.com/in/simonezuliani/)
+**Chartered electrical engineer who writes desktop software.**<br>
+Python and Qt, from the timeline of a video editor to the millisecond a machine has to be told where to reach.
+
+<br>
+
+[![Site](https://img.shields.io/badge/aiazzone.github.io-9ece6a?style=for-the-badge&logo=githubpages&logoColor=0c0e10)](https://aiazzone.github.io)
+[![Email](https://img.shields.io/badge/email-24283b?style=for-the-badge&logo=gmail&logoColor=9ece6a)](mailto:simone.engineer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logoColor=9ece6a)](https://www.linkedin.com/in/simonezuliani/)
 
 </div>
 
 <br>
 
-```console
-$ whoami
-```
+<img src="assets/divider.svg" alt="" width="100%">
+
+## `~/about`
 
 I started in power — substations, transmission lines, photovoltaic plants — and ended
 up writing Python, because the interesting problem stopped being the cable sizing and
@@ -32,12 +35,18 @@ I still draw schematics. The two halves talk to each other more than people expe
 
 <br>
 
-## ~/projects
+<img src="assets/divider.svg" alt="" width="100%">
 
-### [IVE — Individual Video Editor](https://github.com/Aiazzone/IVE-Individual-video-editor) &nbsp;`alpha` &nbsp;`GPL-3.0`
+## `~/projects`
 
-A free, open-source video editor for **Windows and Linux**, built around a CapCut-style
-timeline. Two ideas hold it together.
+### [IVE — Individual Video Editor](https://github.com/Aiazzone/IVE-Individual-video-editor)
+
+![status](https://img.shields.io/badge/status-alpha-9ece6a?style=flat-square&labelColor=1a1b26)
+![license](https://img.shields.io/badge/license-GPL--3.0-7aa2f7?style=flat-square&labelColor=1a1b26)
+![platform](https://img.shields.io/badge/platform-Windows%20%C2%B7%20Linux-bb9af7?style=flat-square&labelColor=1a1b26)
+
+A free, open-source video editor built around a CapCut-style timeline. Two ideas hold
+it together.
 
 Every creative asset — colour looks, transitions, export presets, sticker packs — is a
 **declarative JSON file** you can copy into a folder and send to a friend. Nothing
@@ -47,14 +56,14 @@ And every feature of the program is exposed as a typed **Action**, invoked ident
 from the interface, from a script, or from an assistant. There is nothing reachable
 only by clicking.
 
-▪ Frame-accurate playback, audio clock driving A/V sync
-▪ Multi-clip timeline — trimming, snapping, real waveforms
-▪ 29 colour looks with live previews on your own footage
-▪ 16 transitions; a wipe is just a greyscale luma map
-▪ Lottie and SVG stickers, composited identically on export
-▪ Titles typed live onto the frame, moved with on-video handles
-▪ Music beds with ducking under speech
-▪ Social export presets — the preview graph renders the file
+- Frame-accurate playback, audio clock driving A/V sync
+- Multi-clip timeline — trimming, snapping, real waveforms
+- 29 colour looks with live previews on your own footage
+- 16 transitions; a wipe is just a greyscale luma map
+- Lottie and SVG stickers, composited identically on export
+- Titles typed live onto the frame, moved with on-video handles
+- Music beds with ducking under speech
+- Social export presets — the preview graph renders the file
 
 ```
 Python  ████████████████████████████████   64.4 %
@@ -67,56 +76,41 @@ on MLT. Still early: it opens, edits, plays and exports, and it breaks between c
 
 <br>
 
-## ~/stack
+<img src="assets/divider.svg" alt="" width="100%">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## `~/stack`
 
 **Applications**
 
-`Python` · `PySide6` / Qt Quick · `PyQt5`
-Threading, real-time pipelines
-`PyInstaller` packaging
-
-</td>
-<td valign="top" width="50%">
+![Python](https://img.shields.io/badge/Python-24283b?style=for-the-badge&logo=python&logoColor=9ece6a)
+![Qt](https://img.shields.io/badge/PySide6%20·%20Qt%20Quick-24283b?style=for-the-badge&logo=qt&logoColor=9ece6a)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-24283b?style=for-the-badge&logoColor=9ece6a)
 
 **Media &amp; vision**
 
-`FFmpeg` · `PyAV` · `OpenCV` · `GLSL`
-`YOLO` / Ultralytics · `PyTorch`
-`TensorRT` · `ONNX` · `OpenVINO`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
+![FFmpeg](https://img.shields.io/badge/FFmpeg%20·%20PyAV-24283b?style=for-the-badge&logo=ffmpeg&logoColor=7aa2f7)
+![OpenCV](https://img.shields.io/badge/OpenCV-24283b?style=for-the-badge&logo=opencv&logoColor=7aa2f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-24283b?style=for-the-badge&logo=pytorch&logoColor=7aa2f7)
+![YOLO](https://img.shields.io/badge/YOLO%20·%20Ultralytics-24283b?style=for-the-badge&logoColor=7aa2f7)
+![ONNX](https://img.shields.io/badge/ONNX%20·%20TensorRT%20·%20OpenVINO-24283b?style=for-the-badge&logo=onnx&logoColor=7aa2f7)
 
 **Industrial I/O**
 
-Siemens `S7-1500` / TIA Portal
-`python-snap7`, S7 data blocks
-3D time-of-flight cameras
-RTSP / GigE / USB acquisition
-
-</td>
-<td valign="top">
+![Siemens](https://img.shields.io/badge/Siemens%20S7--1500%20·%20TIA%20Portal-24283b?style=for-the-badge&logo=siemens&logoColor=bb9af7)
+![snap7](https://img.shields.io/badge/python--snap7-24283b?style=for-the-badge&logoColor=bb9af7)
+![3D](https://img.shields.io/badge/3D%20time--of--flight-24283b?style=for-the-badge&logoColor=bb9af7)
 
 **Electrical design**
 
-EPLAN `Electric P8` · `Pro Panel`
-EPLAN API scripting (`C#`)
-LV / MV / HV protection
-`NBR 5419` · `IEC 62305`
-
-</td>
-</tr>
-</table>
+![EPLAN](https://img.shields.io/badge/EPLAN%20Electric%20P8%20·%20Pro%20Panel-24283b?style=for-the-badge&logoColor=ff9e64)
+![C#](https://img.shields.io/badge/EPLAN%20API%20·%20C%23-24283b?style=for-the-badge&logoColor=ff9e64)
+![IEC](https://img.shields.io/badge/NBR%205419%20·%20IEC%2062305-24283b?style=for-the-badge&logoColor=ff9e64)
 
 <br>
 
-## ~/background
+<img src="assets/divider.svg" alt="" width="100%">
+
+## `~/background`
 
 | | |
 |---|---|
@@ -132,5 +126,7 @@ LV / MV / HV protection
 <br>
 
 <div align="center">
+<img src="assets/divider.svg" alt="" width="100%">
+<br><br>
 <sub>Italian &amp; Portuguese (native) · English · Spanish &nbsp;•&nbsp; NR-10 certified</sub>
 </div>
